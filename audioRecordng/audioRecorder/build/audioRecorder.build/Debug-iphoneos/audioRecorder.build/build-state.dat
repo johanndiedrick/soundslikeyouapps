@@ -1,0 +1,415 @@
+TaudioRecorder
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist build/Debug-iphoneos/audioRecorder.app/ResourceRules.plist
+cProcessInfoPlistFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Info.plist" audioRecorder/audioRecorder-Info.plist
+cProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch.pth audioRecorder/audioRecorder-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/main.o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/AppDelegate.o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/AppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/ViewController.o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/ViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorder" normal armv7
+cGenerateDSYMFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app.dSYM" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorder"
+cCopyStringsFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/en.lproj/InfoPlist.strings" audioRecorder/en.lproj/InfoPlist.strings
+cCopyPNGFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default.png" audioRecorder/Default.png
+cCopyPNGFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default@2x.png" audioRecorder/Default@2x.png
+cCopyPNGFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default-568h@2x.png" audioRecorder/Default-568h@2x.png
+cCompileXIB "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPhone.xib"
+cCompileXIB "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPad.xib"
+cProcessProductPackaging "/Users/johanndiedrick/Library/MobileDevice/Provisioning Profiles/AA18CCD7-8511-467C-BBBB-C94AC22DA778.mobileprovision" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/embedded.mobileprovision"
+cProcessProductPackaging "/Users/johanndiedrick/Library/MobileDevice/Provisioning Profiles/AA18CCD7-8511-467C-BBBB-C94AC22DA778.mobileprovision" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/embedded.mobileprovision"
+cTouch "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app"
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder.xcent"
+cCodeSign "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000503C83D40000000000000132
+t1346143188
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist
+c000000005092E58B0000000000000094
+t1351804299
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+c000000005092E58B0000000000000096
+t1351804299
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005092E58E000000000036C800
+t1351804302
+s3590144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005092E58F0000000000322740
+t1351804303
+s3286848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005092E5920000000000629C80
+t1351804306
+s6462592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005092E59000000000000015F7
+t1351804304
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005092E5940000000000000E8D
+t1351804308
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005092E59700000000011BA850
+t1351804311
+s18589776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/Availability.h
+c000000005092E59F0000000000001B54
+t1351804319
+s6996
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/AppDelegate.h
+c0000000051095F2E000000000000017A
+t1359568686
+s378
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/AppDelegate.m
+c0000000051095F2E00000000000009EB
+t1359568686
+s2539
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/ViewController.h
+c00000000510982310000000000000394
+t1359577649
+s916
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/ViewController.m
+c00000000510995AF0000000000000D9A
+t1359582639
+s3482
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/audioRecorder-Prefix.pch
+c0000000051095F2E0000000000000149
+t1359568686
+s329
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/InfoPlist.strings
+c0000000051095F2E000000000000002D
+t1359568686
+s45
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPad.xib
+c0000000051095F2E0000000000001489
+t1359568686
+s5257
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPhone.xib
+c000000005109818F0000000000006078
+t1359577487
+s24696
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/main.m
+c0000000051095F2E000000000000015E
+t1359568686
+s350
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app
+t1359582609
+s408
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app.dSYM
+t1359582607
+s102
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default-568h@2x.png
+t1359572860
+s7014
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default.png
+t1359572860
+s3688
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default@2x.png
+t1359572860
+s6316
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Info.plist
+t1359572849
+s1154
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/PkgInfo
+t1359572849
+s8
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/ResourceRules.plist
+t1359572849
+s150
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorder
+t1359582609
+s41024
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/embedded.mobileprovision
+t1359572876
+s7429
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/en.lproj/InfoPlist.strings
+t1359572858
+s42
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/en.lproj/ViewController_iPad.nib
+t1359572875
+s822
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/en.lproj/ViewController_iPhone.nib
+t1359577491
+s2770
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/AppDelegate.o
+t1359577659
+s93808
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/ViewController.o
+t1359582605
+s92548
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/audioRecorder.LinkFileList
+c0000000051096F71000000000000024E
+t1359572849
+s590
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/main.o
+t1359572853
+s3484
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder.xcent
+t1359572876
+s430
+
+N/Users/johanndiedrick/Library/MobileDevice/Provisioning Profiles/AA18CCD7-8511-467C-BBBB-C94AC22DA778.mobileprovision
+c000000005092DC970000000000001D05
+t1351802007
+s7429
+
+N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch.pth
+t1359572851
+s4774536
+
+NaudioRecorder/audioRecorder-Info.plist
+c0000000051095F2E00000000000005B5
+t1359568686
+s1461
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/ViewController.m"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1479822fcdb9b641^8272872fcdb9b641^---0#1#0#--18"Check dependencies36"9A2EA380-F2CF-47A7-968A-84000EA585A5-
+
+CCodeSign "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app"
+s381275439.938345
+e381275440.312529
+r1
+xCodeSign
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"CodeSign build/Debug-iphoneos/audioRecorder.appd652f02fcdb9b641^08025030cdb9b641^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/0000000000000000^1084"CodeSign build/Debug-iphoneos/audioRecorder.app    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 1c69bacecef98d1c4dafccbfb683cc7f4ab7ef15 "--resource-rules=/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/ResourceRules.plist" --entitlements "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder.xcent" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app"36"64B13F86-773C-4F81-BDC8-8B9B3F15684D-
+
+CCompileC build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/AppDelegate.o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/AppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381270457.203454
+e381270459.494215
+r1
+xCompileC
+xbuild/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/AppDelegate.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/AppDelegate.m0b4734b9b9b9b641^06847ebbb9b9b641^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/AppDelegate.m0000000000000000^4361"CompileC build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/AppDelegate.o audioRecorder/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-project-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/DerivedSources/armv7" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/AppDelegate.d" --serialize-diagnostics "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/AppDelegate.dia" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/AppDelegate.m" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/AppDelegate.o"36"3BFC25A6-4CE9-474A-8E88-23CB7B6A3D87-
+
+CCompileC build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/ViewController.o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/ViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381275439.539303
+e381275439.797068
+r1
+xCompileC
+xbuild/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/ViewController.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/ViewController.maf428a2fcdb9b641^2a19cc2fcdb9b641^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/ViewController.m0000000000000000^4379"CompileC build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/ViewController.o audioRecorder/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-project-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/DerivedSources/armv7" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/ViewController.d" --serialize-diagnostics "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/ViewController.dia" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/ViewController.m" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/ViewController.o"36"CC184859-7AAA-479C-85BC-B27DE27E9751-
+
+CCompileC build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/main.o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381265651.443866
+e381265653.555759
+r1
+xCompileC
+xbuild/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/main.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/main.m35cf71f3a6b9b641^7c468ef5a6b9b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/main.m0000000000000000^4319"CompileC build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/main.o audioRecorder/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-project-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/DerivedSources/armv7" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/main.d" --serialize-diagnostics "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/main.dia" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/main.m" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/main.o"36"BDA3AB57-3613-4F3B-A5DC-2F5CB9382032-
+
+CCompileXIB "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPad.xib"
+s381265660.501275
+e381265675.991625
+r1
+xCompileXIB
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPad.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Compiling /Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPad.xibfc7080fca6b9b641^07edfd0ba7b9b641^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPad.xib0000000000000000^1069"CompileXIB audioRecorder/en.lproj/ViewController_iPad.xib    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/en.lproj/ViewController_iPad.nib" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPad.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk36"17913BDC-7AFE-480E-BD52-146D5D8E18FF-
+
+CCompileXIB "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPhone.xib"
+s381270288.314963
+e381270291.308609
+r1
+xCompileXIB
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPhone.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Compiling /Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPhone.xibdcbd5010b9b9b641^de004f13b9b9b641^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPhone.xib0000000000000000^1075"CompileXIB audioRecorder/en.lproj/ViewController_iPhone.xib    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/en.lproj/ViewController_iPhone.nib" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/ViewController_iPhone.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk36"FB1647E0-DE5E-41B7-B463-C4108BA03C04-
+
+CCopyPNGFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default-568h@2x.png" audioRecorder/Default-568h@2x.png
+s381265660.219847
+e381265660.499912
+r1
+xCopyPNGFile
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default-568h@2x.png
+xaudioRecorder/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CopyPNGFile build/Debug-iphoneos/audioRecorder.app/Default-568h@2x.png audioRecorder/Default-568h@2x.pngf25f38fca6b9b641^09fa7ffca6b9b641^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/Default-568h@2x.png0000000000000000^823"CopyPNGFile "build/Debug-iphoneos/audioRecorder.app/Default-568h@2x.png" "audioRecorder/Default-568h@2x.png"    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/Default-568h@2x.png" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default-568h@2x.png"36"CA6FE405-9ABB-4618-982D-D5B43BC18060-
+
+CCopyPNGFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default.png" audioRecorder/Default.png
+s381265658.158133
+e381265660.218492
+r1
+xCopyPNGFile
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default.png
+xaudioRecorder/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile build/Debug-iphoneos/audioRecorder.app/Default.png audioRecorder/Default.png271529faa6b9b641^5dfe37fca6b9b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/Default.png0000000000000000^787"CopyPNGFile build/Debug-iphoneos/audioRecorder.app/Default.png audioRecorder/Default.png    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/Default.png" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default.png"36"985F49FF-816E-4505-8786-B5C10C8FFF8D-
+
+CCopyPNGFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default@2x.png" audioRecorder/Default@2x.png
+s381265658.303332
+e381265660.385487
+r1
+xCopyPNGFile
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default@2x.png
+xaudioRecorder/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CopyPNGFile build/Debug-iphoneos/audioRecorder.app/Default@2x.png audioRecorder/Default@2x.pnge8c14dfaa6b9b641^59c262fca6b9b641^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/Default@2x.png0000000000000000^803"CopyPNGFile "build/Debug-iphoneos/audioRecorder.app/Default@2x.png" "audioRecorder/Default@2x.png"    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/Default@2x.png" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Default@2x.png"36"E2AB853E-B6FA-409F-A730-FBB0A5B57C69-
+
+CCopyStringsFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/en.lproj/InfoPlist.strings" audioRecorder/en.lproj/InfoPlist.strings
+s381265658.157235
+e381265658.302003
+r1
+xCopyStringsFile
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/en.lproj/InfoPlist.strings
+xaudioRecorder/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy audioRecorder/en.lproj/InfoPlist.stringsf96928faa6b9b641^63604dfaa6b9b641^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/en.lproj/InfoPlist.strings0000000000000000^708"CopyStringsFile build/Debug-iphoneos/audioRecorder.app/en.lproj/InfoPlist.strings audioRecorder/en.lproj/InfoPlist.strings    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/en.lproj" -- audioRecorder/en.lproj/InfoPlist.strings36"AC617D51-E5C7-4D38-8C48-55FD57D9892A-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist build/Debug-iphoneos/audioRecorder.app/ResourceRules.plist
+s381265649.734711
+e381265649.823349
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/audioRecorder.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphoneos/audioRecorder.app/ResourceRules.plistc479c8f1a6b9b641^dacbd2f1a6b9b641^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/ResourceRules.plist000000000080d041^868"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist build/Debug-iphoneos/audioRecorder.app/ResourceRules.plist    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app"36"31C3A365-115F-4CB0-AC09-526FF2A79F92-
+
+CGenerateDSYMFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app.dSYM" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorder"
+s381275439.853536
+e381275439.881216
+r1
+xGenerateDSYMFile
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app.dSYM
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorder
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Generating /Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app.dSYMcc98da2fcdb9b641^7496e12fcdb9b641^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app.dSYM/0000000000000000^821"GenerateDSYMFile build/Debug-iphoneos/audioRecorder.app.dSYM build/Debug-iphoneos/audioRecorder.app/audioRecorder    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorder" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app.dSYM"36"FCC2182C-B5F6-42FD-8AED-7D25EFBB3925-
+
+CLd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorder" normal armv7
+s381275439.804323
+e381275439.847144
+r1
+xLd
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorder
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Link /Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorderd40bce2fcdb9b641^6eded82fcdb9b641^---0#0#0#--1425"Ld build/Debug-iphoneos/audioRecorder.app/audioRecorder normal armv7    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk "-L/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos" -filelist "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/Objects-normal/armv7/audioRecorder.LinkFileList" -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.0 -framework AVFoundation -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/audioRecorder"36"FF6AEC8D-8E2A-49F1-8C2F-FBE592AC7FB7-
+
+CProcessInfoPlistFile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Info.plist" audioRecorder/audioRecorder-Info.plist
+s381265649.735965
+e381265649.823829
+r1
+xProcessInfoPlistFile
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Info.plist
+xaudioRecorder/audioRecorder-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process audioRecorder/audioRecorder-Info.plistff96c8f1a6b9b641^1493d3f1a6b9b641^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/audioRecorder-Info.plist0000000000000000^1034"ProcessInfoPlistFile build/Debug-iphoneos/audioRecorder.app/Info.plist audioRecorder/audioRecorder-Info.plist    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility audioRecorder/audioRecorder-Info.plist -genpkginfo "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/ResourceRules.plist" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/Info.plist"36"08DE7D85-9CC0-4D67-9F0C-9EC408CDCA86-
+
+CProcessPCH /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/audioRecorder-dobpxjajmerawtguloyidauohtwt/Index/PrecompiledHeaders/audioRecorder-Prefix-bmuztfslwnjxeuhfrrabefvbhdxq_ast/audioRecorder-Prefix.pch.pth audioRecorder/audioRecorder-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch.pth audioRecorder/audioRecorder-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381265649.834858
+e381265651.436785
+r1
+xProcessPCH
+x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch.pth
+xaudioRecorder/audioRecorder-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile audioRecorder/audioRecorder-Prefix.pch36c8e0f1a6b9b641^6bef6ff3a6b9b641^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/audioRecorder/audioRecorder-Prefix.pch0000000000000000^4206"ProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch.pth audioRecorder/audioRecorder-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder-project-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/DerivedSources/armv7" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos" --serialize-diagnostics /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch.dia -c "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/audioRecorder/audioRecorder-Prefix.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/audioRecorder-Prefix-dwvcvcdumrwnnaeajizzxszcccwq/audioRecorder-Prefix.pch.d36"669A62A4-6F93-445F-922E-7E2BD4C7B177-
+
+CProcessProductPackaging "/Users/johanndiedrick/Library/MobileDevice/Provisioning Profiles/AA18CCD7-8511-467C-BBBB-C94AC22DA778.mobileprovision" "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/embedded.mobileprovision"
+s381265676.083516
+e381265676.087195
+r1
+xProcessProductPackaging
+x/Users/johanndiedrick/Library/MobileDevice/Provisioning Profiles/AA18CCD7-8511-467C-BBBB-C94AC22DA778.mobileprovision
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection207"ProcessProductPackaging "/Users/johanndiedrick/Library/MobileDevice/Provisioning Profiles/AA18CCD7-8511-467C-BBBB-C94AC22DA778.mobileprovision" build/Debug-iphoneos/audioRecorder.app/embedded.mobileprovision5b7d150ca7b9b641^f261160ca7b9b641^---0#0#0#-19%DVTDocumentLocation2@185"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/embedded.mobileprovision0000000000000000^834"ProcessProductPackaging "/Users/johanndiedrick/Library/MobileDevice/Provisioning Profiles/AA18CCD7-8511-467C-BBBB-C94AC22DA778.mobileprovision" build/Debug-iphoneos/audioRecorder.app/embedded.mobileprovision    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/johanndiedrick/Library/MobileDevice/Provisioning Profiles/AA18CCD7-8511-467C-BBBB-C94AC22DA778.mobileprovision" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app/embedded.mobileprovision"36"752DA7C5-9818-4D6B-924F-85DF434A8A7A-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder.xcent"
+s381265676.285559
+e381265676.303168
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection225"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder.xcent2a37490ca7b9b641^399c4d0ca7b9b641^---0#0#0#-19%DVTDocumentLocation2@202"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds%20Like%20You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder.xcent000000000080d041^896"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder.xcent    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/audioRecorder.build/Debug-iphoneos/audioRecorder.build/audioRecorder.xcent"36"7CBC549F-FD4B-46B5-8D5A-A4F98F1EA4FF-
+
+CTouch "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app"
+s381275439.915317
+e381275439.921560
+r1
+xTouch
+x/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Touch /Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app5a65ea2fcdb9b641^62f9eb2fcdb9b641^---0#0#0#--509"Touch build/Debug-iphoneos/audioRecorder.app    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/johanndiedrick/Documents/Tisch/Courses/Thesis/Sounds Like You/apps/audioRecordng/audioRecorder/build/Debug-iphoneos/audioRecorder.app"36"FC35C7A8-D521-4C06-B6CC-0EC363B6B42F-
+
